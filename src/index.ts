@@ -1,2 +1,3 @@
 export * from './exampleModule'
-export * from './Hello';
+export * from './Hello'
+export * from './Label'

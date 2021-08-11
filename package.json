@@ -1,8 +1,9 @@
 {
-  "name": "@tofusoup429/react-component-module-frame",
+  "name": "smart-youtuber-components",
   "version": "0.0.10",
-  "description": "React module frame",
-  "homepage": "https://github.com/tofusoup429/react-component-module-frame",
+  "description": "React components for smart youtuber",
+  "homepage": "https://github.com/dayemsiddiqui/smart-youtuber-components",
+  "author": "dayemsiddiqui",
   "main": "dist/index.js",
   "license": "MIT",
   "scripts": {
